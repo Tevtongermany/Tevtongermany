@@ -4,3 +4,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-Click%20Me!-9cf?color=9cf&label=Twitter&logo=Twitter&logoColor=9cf&style=for-the-badge)](https://twitter.com/tevtongermany)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U8DLMQ9)
+
+
