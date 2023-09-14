@@ -1,7 +1,7 @@
 # Hello 👋!  
 <p align="center">
   My name is Alex and I am a small developer working on games and apps <br> 
-  I am currently in going to a Berufschulzentrum  
+  I am currently in going to a vocational school center  
 </p>
 <p  align="center">
 <a href="https://discord.gg/WeUSduZraK">
