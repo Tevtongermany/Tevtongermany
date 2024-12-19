@@ -15,10 +15,3 @@
 <a target="_blank" href="https://www.youtube.com/@tevtongermany" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://bsky.app/profile/tevtongermany.bsky.social" style="display: inline-block;"><img src="https://img.shields.io/badge/bluesky-logo?style=for-the-badge&logo=bluesky&logoColor=white&color=187bcd" alt="Bluesky" />
 <a target="_blank" href="https://discordapp.com/users/487615901613686784/" style="display: inline-block;"><img src="https://img.shields.io/badge/discord-logo?style=for-the-badge&logo=discord&logoColor=white&color=7785cc" alt="Discord" /></a></p>
-<h2>Support Me</h2>
-<p><p>
-<a href="https://www.ko-fi.com/Tevtongermany">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
-</a>
-</p>
-</p>
