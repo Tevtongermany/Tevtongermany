@@ -1,7 +1,10 @@
 <h1>Tevtongermany</h1>
 <p>Random Guy on the internet</p>
-<p>Unreal Engine Dev</p>
-<p>I would guess a ps4 Homebrew dev?</p>
+<p>Unreal Engine Developer</p>
+<p>Ps4 Homebrew Developer</p>
+<p>Checkout my current projects!</p>
+<p><a href="https://discord.gg/y5gRdBP3bH">OrbisNet</a> - PSN Network Emulator For Jailbroken PS4s To play online games that use p2p</p>
+<p><a href="https://github.com/Orbisnet/Faith">Faith</a> - Ps4 Network Redirector that hooks into SceHttp functions and redirects traffic to custom servers</p>
 <h2>Languages and Tools I Use</h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="42" height="42" /></a>
