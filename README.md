@@ -3,7 +3,7 @@
   Unreal Engine Developer <br>
   Ps4 Homebrew Developer
 </p>
-
+<a href="https://wakatime.com/@402379ad-dbc6-458d-8c09-9ede1769b7de"><img src="https://wakatime.com/badge/user/402379ad-dbc6-458d-8c09-9ede1769b7de.svg" alt="Total time coded since Nov 2 2024" /></a>
 <p></p>
 <p>Checkout my current projects!</p>
 <p><a href="https://discord.gg/y5gRdBP3bH">OrbisNet</a> - PSN Network Emulator For Jailbroken PS4s To play online games that use p2p</p>
